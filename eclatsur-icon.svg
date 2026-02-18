@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Beige background -->
+  <rect width="200" height="200" fill="#f7ede0"/>
+
+  <!-- É in dark brown -->
+  <text
+    x="28"
+    y="148"
+    font-family="'DM Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif"
+    font-size="140"
+    font-weight="300"
+    fill="#3b1f0e"
+  >É</text>
+
+  <!-- Accent dot in brown-light -->
+  <circle cx="163" cy="138" r="13" fill="#c68b4e"/>
+</svg>
